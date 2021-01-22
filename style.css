@@ -91,3 +91,9 @@ list-style: none;
 .links:hover{
     background-color: dodgerblue;
 }
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color:fuchsia;
+}
